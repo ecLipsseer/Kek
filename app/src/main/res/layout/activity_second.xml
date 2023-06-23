@@ -169,7 +169,7 @@
                 android:layout_marginEnd="16dp"
                 app:layout_constraintBottom_toBottomOf="@+id/car_name"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:srcCompat="@drawable/heart" />
+                app:srcCompat="@drawable/heart_2_01" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
 
@@ -234,7 +234,7 @@
                 android:layout_marginEnd="16dp"
                 app:layout_constraintBottom_toBottomOf="@+id/car_name_1"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:srcCompat="@drawable/heart" />
+                app:srcCompat="@drawable/heart_2_01" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
     </androidx.constraintlayout.widget.ConstraintLayout>
