@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Kek</string>
+    <string name="search_Icon">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="heart_Icon">Heart</string>
+    <string name="message_Icon">Message</string>
+    <string name="garage_Icon">Garage</string>
+    <string name="main_Text">Главная</string>
+    <string name="heart_Text">Избранное</string>
+    <string name="message_Text">Сообщения</string>
+    <string name="garage_Text">Гараж</string>
+    <string name="logo_of_app_1">Car</string>
+    <string name="logo_of_app_2">.Order</string>
+    <string name="car_Icon">Car_Search</string>
+    <string name="search_Txt">Марка и модель</string>
+    <string name="recomend">Рекомендации для вас</string>
+    <string name="price_Car">1 000 000₽</string>
+    <string name="car_name">BMW 3-Series 2016</string>
+    <string name="probeg">1000km</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>

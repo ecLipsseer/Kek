@@ -1,0 +1,11 @@
+package com.example.kek
+
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+
+class FouthActivity : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_fouth)
+    }
+}

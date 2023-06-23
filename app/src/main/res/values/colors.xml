@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mainBgColor">#eaeaea</color>
+    <color name="bottomMenuColor">#171717</color>
+    <color name="upMenuColor">#202020</color>
+    <color name="iconActive">#FF4a78</color>
+    <color name="bgGray">#aeaeae</color>
+</resources>
